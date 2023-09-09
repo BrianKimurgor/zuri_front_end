@@ -66,7 +66,7 @@ Attribute: data-testid="githubURL"
 
 Here is an example of how the web page might look with the specified elements:
 
-https://github.com/BrianKimurgor/zuri_front_end/blob/master/images/2023-09-09-10-15-23.png
+![front end](https://github.com/BrianKimurgor/zuri_front_end/blob/master/images/2023-09-09-10-15-23.png)
 
 ## Author
 
