@@ -16,5 +16,5 @@ document.addEventListener("DOMContentLoaded", function () {
     currentDayElement.textContent = currentDayOfWeek;
     currentUTCTimeElement.textContent = currentDate.getTime(); // UTC time in milliseconds
     myTrackElement.textContent = "Frontend"; // Replace with your track
-    githubURLElement.href = "https://github.com/your-username/your-repository"; // Replace with your GitHub URL
+    githubURLElement.href = "https://github.com/BrianKimurgor/zuri_front_end.git"; 
 });
